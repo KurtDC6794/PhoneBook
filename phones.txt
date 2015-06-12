@@ -1,0 +1,10 @@
+(dp0
+S'Bill'
+p1
+S'132'
+p2
+sS'John'
+p3
+S'123'
+p4
+s.
